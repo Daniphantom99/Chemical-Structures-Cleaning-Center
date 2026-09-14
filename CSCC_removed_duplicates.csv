@@ -1,0 +1,3 @@
+ChEMBL ID,Molecule_name,Smiles,Smiles_curated
+CHEMBL25,ASPIRIN,CC(=O)OC1=CC=CC=C1C(=O)O,CC(=O)Oc1ccccc1C(=O)O
+CHEMBL282468,CHOLINE CHLORIDE,C[N+](C)(C)CCO.[Cl-],C[N+](C)(C)CCO
